@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="https://raw.githubusercontent.com/cerpus/Edlib/master/sourcecode/docs/docs.edlib.com/static/img/Cerpus_logo.svg" alt="Cerpus_logo" title="Cerpus_logo">
+  <img height="100" src="https://raw.githubusercontent.com/cerpus/Edlib/9ab4d7f5df39ea020818f51a8301491a42ba2c1d/sourcecode/docs/docs.edlib.com/static/img/Cerpus_logo_darkmode.svg" alt="Cerpus_logo" title="Cerpus_logo">
 </p>
 
 <p align="center">
