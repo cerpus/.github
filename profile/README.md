@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="100" src="https://github.com/cerpus/Edlib/blob/master/sourcecode/docs/docs.edlib.com/static/img/Cerpus_logo.svg" alt="Qdrant" title="Qdrant vector search">
+  <img height="100" src="https://github.com/cerpus/Edlib/blob/master/sourcecode/docs/docs.edlib.com/static/img/Cerpus_logo.svg" alt="Cerpus_logo" title="Cerpus_logo">
 </p>
 
 <p align="center">
